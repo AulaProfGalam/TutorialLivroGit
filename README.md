@@ -1,2 +1,3 @@
 # TutorialLivroGit
-Tutorial to learn git
+
+Equipe 5, mt pika essa equipe
